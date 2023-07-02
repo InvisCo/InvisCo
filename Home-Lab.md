@@ -2,6 +2,8 @@
 
 ## Current Setup
 
+### Hardware 
+
 1. **NAS**
    - CPU: AMD Ryzen 5 2400G
    - RAM: 32GB DDR4 2933 MT/s
@@ -16,6 +18,15 @@
    - Storage:
      - 1x1TB SATA SSD
      - 1x256GB NVMe SSD
+
+### Software
+
+**OS:** Proxmox VE 7
+- LXC containers:
+  - Home Assistant Container running on Podman on Debian 11
+  - Docker host on Debian 11
+  - Cockpit with 45 Drives' plugins for NAS functionality on Debian 11
+
 
 ## The Journey
 
