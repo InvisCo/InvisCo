@@ -17,4 +17,4 @@ I started out by repurposing my old desktop computer that I had to leave behind 
 On it, I set up Plex and an OpenVPN server on OpenMediaVault 5 to solve my main problems and provide a simple web-based UI to manage the entire system.
 This has evolved into a cluster with the same old server, and 2 Dell Optiplex Micro PCs that run Proxmox with High Availability for all VMs and applications running on them. 
 
-Read more about my Home-Lab journey [here](Home-Lab.md).
+Read more about my Home-Lab journey [here](Home-Lab.md#the-journey).
