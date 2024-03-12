@@ -1,20 +1,27 @@
 ## Hi there 👋
 
-I am Nishesh, a 4th Year Engineering Student at the University of Waterloo.
+I'm Nishesh, a final-year Engineering student at the University of Waterloo, passionate about Platform Engineering, MLOps, Data Engineering, and DevOps. With a knack for solving complex problems and streamlining operations, I bring enthusiasm and dedication to every project.
 
-I am currently looking for a co-op internship (_Sept-Dec 2023_) in Data Engineering, MLOps, DevOps, or Software Development.
+### Key Skills and Technologies
 
-I have always been interested in solving problems and getting this running smoothly. I bring this energy to my work and always strive to deliver the best of what I can.
+**Infrastructure:** Kubernetes, Ansible, Terraform, Proxmox VE, LXCs
 
-I have been working mainly in Python lately, but have experience with Java, Ruby, JavaScript, and R.
+**DevOps:** CI/CD, Docker
 
-### Home-Lab
+**Programming:** Python, Java
 
-Over the past 5 years, I have been tinkering away on my home-lab to try out new technologies and learn how things fit together. 
-This journey began as a way to be able to get access to the same video library I had access to on my Hard Drive and on Netflix at home while I was at university in another country. 
+**Data Engineering:** PostgreSQL, Apache Spark, Apache Kafka
 
-I started out by repurposing my old desktop computer that I had to leave behind when I set out for university. 
-On it, I set up Plex and an OpenVPN server on OpenMediaVault 5 to solve my main problems and provide a simple web-based UI to manage the entire system.
-This has evolved into a cluster with the same old server, and 2 Dell Optiplex Micro PCs that run Proxmox with High Availability for all VMs and applications running on them. 
+**Machine Learning:** Scikit-Learn, PyTorch Lightning, SpaCy
 
-Read more about my Home-Lab journey [here](Home-Lab.md#The-journey).
+### Home-Lab Highlights
+My journey in building and evolving a home lab over the past 6 years showcases my hands-on experience with technology and my constant quest for knowledge. Beginning with a simple desire to access my video library remotely, this project has grown into a sophisticated setup involving:
+
+- A repurposed desktop, transplanted into a rack mounted case, and two Dell Optiplex Micro PCs.
+- Implementing a resilient and scalable home network setup using Proxmox VE with High Availability clusters.
+- Leveraging containerization with Docker and orchestration with Kubernetes to streamline application deployment and management.
+- Automating infrastructure provisioning and configuration with Ansible and Terraform, reinforcing best practices in IaC.
+
+This hands-on experience has been instrumental in deepening my understanding of modern infrastructure and data engineering practices, preparing me for the technical challenges in the professional world.
+
+Discover the full journey of my home lab and its impact on my technical skills [here](Home-Lab.md#The-journey).
